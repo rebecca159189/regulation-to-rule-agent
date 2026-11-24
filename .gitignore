@@ -1,0 +1,15 @@
+.env
+.venv/
+.data/
+__pycache__/
+*.pyc
+.pytest_cache/
+data/platform_profile.json
+
+# ---- not for the public repository ----
+# third-party / former-employer material kept only locally
+engine.zip
+*.pdf
+需求文档.md
+# personal study notes (interview and resume chapters)
+docs/学习手册.md
